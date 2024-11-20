@@ -1,0 +1,58 @@
+1967(Jan 15)|I|Green Bay Packers|35|Kansas City Chiefs|10|Bart Starr|Memorial Coliseum|Los Angeles|California
+1968(Jan 14)|II|Green Bay Packers|33|Oakland Raiders|14|Bart Starr|Orange Bowl|Miami|Florida
+1969(Jan 12)|III|New York Jets|16|Baltimore Colts|7|Joe Namath|Orange Bowl|Miami|Florida
+1970(Jan 11)|IV|Kansas City Chiefs|23|Minnesota Vikings|7|Len Dawson|Tulane Stadium|New Orleans|Louisiana
+1971(Jan 17)|V|Baltimore Colts|16|Dallas Cowboys|13|Chuck Howley|Orange Bowl|Miami|Florida
+1972(Jan 16)|VI|Dallas Cowboys|24|Miami Dolphins|3|Roger Staubach|Tulane Stadium|New Orleans|Louisiana
+1973(Jan 14)|VII|Miami Dolphins|14|Washington Redskins|7|Jake Scott|Memorial Coliseum|Los Angeles|California
+1974(Jan 13)|VIII|Miami Dolphins|24|Minnesota Vikings|7|Larry Csonka|Rice Stadium|Houston|Texas
+1975(Jan 12)|IX|Pittsburgh Steelers|16|Minnesota Vikings|6|Franco Harris|Tulane Stadium|New Orleans|Louisiana
+1976(Jan 18)|X|Pittsburgh Steelers|21|Dallas Cowboys|17|Lynn Swann|Orange Bowl|Miami|Florida
+1977(Jan 9)|XI|Oakland Raiders|32|Minnesota Vikings|14|Fred Biletnikoff|Rose Bowl|Pasadena|California
+1978(Jan 15)|XII|Dallas Cowboys|27|Denver Broncos|10|Harvey MartinRandy White|Superdome|New Orleans|Louisiana
+1979(Jan 21)|XIII|Pittsburgh Steelers|35|Dallas Cowboys|31|Terry Bradshaw|Orange Bowl|Miami|Florida
+1980(Jan 20)|XIV|Pittsburgh Steelers|31|Los Angeles Rams|19|Terry Bradshaw|Rose Bowl|Pasadena|California
+1981(Jan 25)|XV|Oakland Raiders|27|Philadelphia Eagles|10|Jim Plunkett|Louisiana Superdome|New Orleans|Louisiana
+1982(Jan 24)|XVI|San Francisco 49ers|26|Cincinnati Bengals|21|Joe Montana|Pontiac Silverdome|Pontiac|Michigan
+1983(Jan 30)|XVII|Washington Redskins|27|Miami Dolphins|17|John Riggins|Rose Bowl|Pasadena|California
+1984(Jan 22)|XVIII|Los Angeles Raiders|38|Washington Redskins|9|Marcus Allen|Tampa Stadium|Tampa|Florida
+1985(Jan 20)|XIX|San Francisco 49ers|38|Miami Dolphins|16|Joe Montana|Stanford Stadium|Palo Alto|California
+1986(Jan 26)|XX|Chicago Bears|46|New England Patriots|10|Richard Dent|Louisiana Superdome|New Orleans|Louisiana
+1987(Jan 25)|XXI|New York Giants|39|Denver Broncos|20|Phil Simms|Rose Bowl|Pasadena|California
+1988(Jan 31)|XXII|Washington Redskins|42|Denver Broncos|10|Doug Williams|Jack Murphy Stadium|San Diego|California
+1989(Jan 22)|XXIII|San Francisco 49ers|20|Cincinnati Bengals|16|Jerry Rice|Joe Robbie Stadium|Miami Gardens|Florida
+1990(Jan 28)|XXIV|San Francisco 49ers|55|Denver Broncos|10|Joe Montana|Louisiana Superdome|New Orleans|Louisiana
+1991(Jan 27)|XXV|New York Giants|20|Buffalo Bills|19|Ottis Anderson|Tampa Stadium|Tampa|Florida
+1992(Jan 26)|XXVI|Washington Redskins|37|Buffalo Bills|24|Mark Rypien|Metrodome|Minneapolis|Minnesota
+1993(Jan 31)|XXVII|Dallas Cowboys|52|Buffalo Bills|17|Troy Aikman|Rose Bowl|Pasadena|California
+1994(Jan 30)|XXVIII|Dallas Cowboys|30|Buffalo Bills|13|Emmitt Smith|Georgia Dome|Atlanta|Georgia
+1995(Jan 29)|XXIX|San Francisco 49ers|49|San Diego Chargers|26|Steve Young|Joe Robbie Stadium|Miami Gardens|Florida
+1996(Jan 28)|XXX|Dallas Cowboys|27|Pittsburgh Steelers|17|Larry Brown|Sun Devil Stadium|Tempe|Arizona
+1997(Jan 26)|XXXI|Green Bay Packers|35|New England Patriots|21|Desmond Howard|Louisiana Superdome|New Orleans|Louisiana
+1998(Jan 25)|XXXII|Denver Broncos|31|Green Bay Packers|24|Terrell Davis|Qualcomm Stadium|San Diego|California
+1999(Jan 31)|XXXIII|Denver Broncos|34|Atlanta Falcons|19|John Elway|Pro Player Stadium|Miami Gardens|Florida
+2000(Jan 30)|XXXIV|St. Louis Rams|23|Tennessee Titans|16|Kurt Warner|Georgia Dome|Atlanta|Georgia
+2001(Jan 28)|XXXV|Baltimore Ravens|34|New York Giants|7|Ray Lewis|Raymond James Stadium|Tampa|Florida
+2002(Feb 3)|XXXVI|New England Patriots|20|St. Louis Rams|17|Tom Brady|Louisiana Superdome|New Orleans|Louisiana
+2003(Jan 26)|XXXVII|Tampa Bay Buccaneers|48|Oakland Raiders|21|Dexter Jackson|Qualcomm Stadium|San Diego|California
+2004(Feb 1)|XXXVIII|New England Patriots|32|Carolina Panthers|29|Tom Brady|Reliant Stadium|Houston|Texas
+2005(Feb 6)|XXXIX|New England Patriots|24|Philadelphia Eagles|21|Deion Branch|Alltel Stadium|Jacksonville|Florida
+2006(Feb 5)|XL|Pittsburgh Steelers|21|Seattle Seahawks|10|Hines Ward|Ford Field|Detroit|Michigan
+2007(Feb 4)|XLI|Indianapolis Colts|29|Chicago Bears|17|Peyton Manning|Dolphin Stadium|Miami Gardens|Florida
+2008(Feb 3)|XLII|New York Giants|17|New England Patriots|14|Eli Manning|University of Phoenix Stadium|Glendale|Arizona
+2009(Feb 1)|XLIII|Pittsburgh Steelers|27|Arizona Cardinals|23|Santonio Holmes|Raymond James Stadium|Tampa|Florida
+2010(Feb 7)|XLIV|New Orleans Saints|31|Indianapolis Colts|17|Drew Brees|Sun Life Stadium|Miami Gardens|Florida
+2011(Feb 6)|XLV|Green Bay Packers|31|Pittsburgh Steelers|25|Aaron Rodgers|Cowboys Stadium|Arlington|Texas
+2012(Feb 5)|XLVI|New York Giants|21|New England Patriots|17|Eli Manning|Lucas Oil Stadium|Indianapolis|Indiana
+2013(Feb 3)|XLVII|Baltimore Ravens|34|San Francisco 49ers|31|Joe Flacco|Mercedes-Benz Superdome|New Orleans|Louisiana
+2014(Feb 2)|XLVIII|Seattle Seahawks|43|Denver Broncos|8|Malcolm Smith|MetLife Stadium|East Rutherford|New Jersey
+2015(Feb 1)|XLIX|New England Patriots|28|Seattle Seahawks|24|Tom Brady|University of Phoenix Stadium|Glendale|Arizona
+2016(Feb 7)|L|Denver Broncos|24|Carolina Panthers|10|Von Miller|Levi's Stadium|Santa Clara|California
+2017(Feb 5)|LI|New England Patriots|34|Atlanta Falcons|28|Tom Brady|NRG Stadium|Houston|Texas
+2018(Feb 4)|LII|Philadelphia Eagles|41|New England Patriots|33|Nick Foles|U.S. Bank Stadium|Minneapolis|Minnesota
+2019(Feb 3)|LIII|New England Patriots|13|Los Angeles Rams|3|Julian Edelman|Mercedes-Benz Stadium|Atlanta|Georgia
+2020(Feb 2)|LIV|Kansas City Chiefs|31|San Francisco 49ers|20|Patrick Mahomes|Hard Rock Stadium|Miami Gardens|Florida
+2021(Feb 7)|LV|Tampa Bay Buccaneers|31|Kansas City Chiefs|9|Tom Brady|Raymond James Stadium|Tampa|Florida
+2022(Feb 13)|LVI|Los Angeles Rams|23|Cincinnati Bengals|20|Cooper Kupp|SoFi Stadium|Inglewood|California
+2023(Feb 12)|LVII|Kansas City Chiefs|38|Philadelphia Eagles|35|Patrick Mahomes|State Farm Stadium|Glendale|Arizona
+2024(Feb 11)|LVIII|Kansas City Chiefs|25|San Francisco 49ers|22|Patrick Mahomes|Allegiant Stadium|Las Vegas|Nevada
