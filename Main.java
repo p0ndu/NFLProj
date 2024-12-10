@@ -21,35 +21,36 @@ class Main {
                 + "Main menu.............0\n"
                 + "-----------------------\n"
                 + "Enter choice:> ");
-        while (loop)
+        while (loop){
 
-        try {
-            usrIn = Integer.valueOf(scn.nextLine().trim());
-            switch (usrIn) {
-                case 0:
+            
+            try {
+                usrIn = Integer.valueOf(scn.nextLine().trim());
+                switch (usrIn) {
+                    case 0:
                     loop = false;
                     break;
-
-                case 1:
+                    
+                    case 1:
                     loop = false;
                     searchWrapper(superbowlData, SearchType.TEAM);
                     break;
-
-                case 2:
+                    
+                    case 2:
                     loop = false;
                     searchWrapper(superbowlData, SearchType.STATE);
                     break;
-
-                default:
+                    
+                    default:
                     System.out.println("Please give a valid input \n>");
                     ;
+                }
+                
+            } catch (Exception e) {
+                System.out.println("Error, bad input");
+                System.out.println(e.getMessage());
             }
-
-        } catch (Exception e) {
-            System.out.println("Error, bad input");
-            System.out.println(e.getMessage());
-        }
-
+        }   
     }
 
     public static void select(List<Superbowl> SuperbowlData) { // outputs toString of a user selected year to console
@@ -64,6 +65,9 @@ class Main {
                 if (year >= 1967 && year <= 2024) {
                     System.out.println(SuperbowlData.get(year - 1967).toString());
                     loop = false;
+                }
+                else{
+                    System.out.println("Error, enter a valid year\n > ");
                 }
             } catch (Exception e) {
                 System.out.println("Error, enter a valid year\n > ");
